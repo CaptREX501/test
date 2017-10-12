@@ -1,3 +1,3 @@
 # test
-discord
-This is for the discord
+!test
+this is a bot test
